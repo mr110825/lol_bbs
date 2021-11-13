@@ -61,3 +61,6 @@ LOL（リーグオブレジェンド）世界的に有名なゲームですが�
 
 ## **画面遷移図**
 https://www.figma.com/file/qsxP4XnUUfd5vHApzmImnf/LOL-BBS?node-id=0%3A1
+
+## **ER図**
+https://drive.google.com/file/d/1oxptHWBrqGtAGa4OTZZ3nxbAJF2qCG_o/view?usp=sharing
