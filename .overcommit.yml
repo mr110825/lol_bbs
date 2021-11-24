@@ -1,0 +1,6 @@
+gemfile: Gemfile
+PreCommit:
+  RuboCop:
+    enabled: true
+    command: ['bundle', 'exec', 'rubocop', '-c', './.rubocop.yml']
+    on_warn: fail # Treat all warnings as failures
