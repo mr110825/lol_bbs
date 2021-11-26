@@ -1,6 +1,6 @@
 <template>
 <div class="navigation">
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #fca311;">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">{{ message }}</a>
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -32,7 +32,4 @@ export default {
 </script>
 
 <style scoped>
-.navigation{
-  background-color:#fca311;
-}
 </style>
