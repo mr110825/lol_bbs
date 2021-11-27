@@ -8,7 +8,7 @@ AllCops:
   - 'bin/**/*'
   - 'spec/**/*'
   - 'node_modules/**/*'
-  - 'config/initializers/devise_token_auth.rb'
+  - 'config/initializers/*'
   DisplayCopNames: true
 
 Layout/MultilineBlockLayout:
